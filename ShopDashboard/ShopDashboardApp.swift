@@ -1,9 +1,6 @@
-//
-//  ShopDashboardApp.swift
-//  ShopDashboard
-//
-//  Created by Matt Irv on 3/17/26.
-//
+// ShopDashboardApp.swift
+// App entry point. Minimal by design — all setup happens in ContentView.
+// @main tells Swift this is where the app starts.
 
 import SwiftUI
 

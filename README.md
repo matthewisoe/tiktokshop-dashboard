@@ -10,18 +10,8 @@ This isn't a tutorial app. It replicates the actual daily workflow an operator r
 
 ## Screenshots
 
-<p align="center">
-  <img src="Screenshots/Simulator Screenshot - iPhone 17 - 2026-03-18 at 09.52.32.png" width="30%" alt="Dashboard"/>
-  <img src="Screenshots/Simulator Screenshot - iPhone 17 - 2026-03-18 at 09.53.15.png" width="30%" alt="SKUs"/>
-  <img src="Screenshots/Simulator Screenshot - iPhone 17 - 2026-03-18 at 09.53.46.png" width="30%" alt="Campaigns"/>
-</p>
-
-<p align="center">
-  <img src="Screenshots/Simulator Screenshot - iPhone 17 - 2026-03-18 at 09.52.46.png" width="30%" alt="SKU Detail"/>
-  <img src="Screenshots/Simulator Screenshot - iPhone 17 - 2026-03-18 at 09.53.37.png" width="30%" alt="Brand Filter"/>
-</p>
-
----|---|---|
+| Dashboard | SKUs | Campaigns |
+|---|---|---|
 | ![Dashboard](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.52.32.png) | ![SKUs](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.53.15.png) | ![Campaigns](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.53.46.png) |
 
 | SKU Detail | Brand Filter |

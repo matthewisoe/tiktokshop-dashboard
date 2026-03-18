@@ -16,7 +16,7 @@ This isn't a tutorial app. It replicates the actual daily workflow an operator r
 
 | SKU Detail | Brand Filter |
 |---|---|
-| ![SKU Detail](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.52.46.png) | ![Brand Filter](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.53.37.png) |
+| ![SKU Detail](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.53.15.png) | ![Brand Filter](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-03-18%20at%2009.53.37.png) |
 
 ---
 
